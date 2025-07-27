@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Python virtual environments
+venv/
+.env/
+
+# OS files
+__pycache__/
+*.pyc
+
+# Build files
+dist/
+build/
+
+# FAISS index
+resume_index/
+
+# Editor files
+.vscode/
+.idea/
